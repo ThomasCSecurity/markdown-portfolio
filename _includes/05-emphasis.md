@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Speaks:**English** and **Spanish**
+Programming Languages: **Python**, **Java**, **Ruby**, **C**
+Other skills: **Play Piano**, **Sing**, **Music director of the RIT Brick City Singers**
